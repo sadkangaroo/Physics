@@ -1,0 +1,22 @@
+\contentsline {chapter}{\numberline {1}动机阐述}{2}
+\contentsline {section}{\numberline {1.1}Summary}{2}
+\contentsline {section}{\numberline {1.2}Motivation}{2}
+\contentsline {chapter}{\numberline {2}研究过程}{3}
+\contentsline {section}{\numberline {2.1}对不同乐器频谱图的分析}{3}
+\contentsline {chapter}{\numberline {3}成果概述}{4}
+\contentsline {section}{\numberline {3.1}Gains}{4}
+\contentsline {section}{\numberline {3.2}Advices}{4}
+\contentsline {chapter}{\numberline {A}Testing Scripts}{5}
+\contentsline {chapter}{\numberline {B}Testing Main Programs}{6}
+\contentsline {section}{\numberline {B.1}MainArrayList}{6}
+\contentsline {subsection}{\numberline {B.1.1}MainArrayList.cpp}{6}
+\contentsline {subsection}{\numberline {B.1.2}MainArrayList.java}{6}
+\contentsline {section}{\numberline {B.2}LinkedList}{7}
+\contentsline {subsection}{\numberline {B.2.1}LinkedList.cpp}{7}
+\contentsline {subsection}{\numberline {B.2.2}LinkedList.java}{7}
+\contentsline {section}{\numberline {B.3}HashSet}{8}
+\contentsline {subsection}{\numberline {B.3.1}HashSet.cpp}{8}
+\contentsline {subsection}{\numberline {B.3.2}HashSet.java}{8}
+\contentsline {section}{\numberline {B.4}TreeSet}{8}
+\contentsline {subsection}{\numberline {B.4.1}TreeSet.cpp}{8}
+\contentsline {subsection}{\numberline {B.4.2}TreeSet.java}{9}

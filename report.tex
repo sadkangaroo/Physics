@@ -1,0 +1,45 @@
+\documentclass[a4paper,14pt]{report}
+%
+%--------------------   start of the 'preamble'
+%
+\usepackage{graphicx,amssymb,amstext,amsmath}
+\usepackage{adobe_fonts}
+\usepackage{report_title}
+\usepackage[table,usenames,dvipsnames,svgnames]{xcolor}
+
+%
+%%    homebrew commands -- to save typing
+\newcommand\etc{\textsl{etc}}
+\newcommand\eg{\textsl{eg.}\ }
+\newcommand\etal{\textsl{et al.}}
+\newcommand\Quote[1]{\lq\textsl{#1}\rq}
+\newcommand\fr[2]{{\textstyle\frac{#1}{#2}}}
+\newcommand\miktex{\textsl{MikTeX}}
+\newcommand\comp{\textsl{The Companion}}
+\newcommand\nss{\textsl{Not so Short}}
+%
+%---------------------   end of the 'preamble'
+%
+
+\renewcommand{\abstractname}{\LARGE{Abstract}}
+
+\begin{document}
+%-----------------------------------------------------------
+\Letsmaketitle
+%-----------------------------------------------------------
+\begin{abstract}\centering
+\vspace{3mm}
+为什么不同乐器听起来的声音不同？为什么人耳能够区分同一频率的不同乐器?为什么人耳能区分同时奏响的不同频率的声音？为什么从声音中\\能听到情感的表达？自然界的声音可以完全用简洁的\\数学表达吗？音乐数字化会遇到哪些问题？
+\end{abstract}
+%-----------------------------------------------------------
+\tableofcontents
+%-----------------------------------------------------------
+\include{chap1}
+\include{chap2}
+\include{chap3}
+%-----------------------------------------------------------
+\appendix
+\include{app1}
+\include{app2}
+%-----------------------------------------------------------
+\end{document}
